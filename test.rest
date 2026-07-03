@@ -1,0 +1,6 @@
+GET http://localhost:3000/users/6a47a3a9a12a6088f4a3d628
+
+###
+
+GET http://localhost:3000/users/6a47a3a9a12a6088f4a3d628/username
+GET http://localhost:3000/
